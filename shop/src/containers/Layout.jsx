@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
       {children}
       <Outlet />
     </div>
-  )
-}
+  );
+};
 
 export default Layout;
