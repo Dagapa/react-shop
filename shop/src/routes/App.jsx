@@ -8,7 +8,7 @@ import MyAccount from '../pages/MyAccount';
 import Layout from '../containers/Layout';
 import CheckOut from '../pages/Checkout'
 import NotFound from '../pages/NotFound';
-import Login from '../containers/Login';
+import Login from '../pages/Login';
 import Orders from '../pages/Orders'
 import Home from '../pages/Home';
 import '../styles/global.css';
